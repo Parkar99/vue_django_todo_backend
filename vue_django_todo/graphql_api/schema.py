@@ -71,7 +71,7 @@ class Query(graphene.ObjectType):
 
     @staticmethod
     def resolve_all_tasks(root, info):
-        return Task.objects.all()
+        return Task.objects.all().order_by('-id')
 
 
 class Mutation(graphene.ObjectType):
