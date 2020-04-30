@@ -16,4 +16,10 @@ pipenv install
 python manage.py runserver
 ```
 
+## Graphql endpoint
+
+```
+/grapql
+```
+
 Learn more about [Django](https://www.djangoproject.com/)
