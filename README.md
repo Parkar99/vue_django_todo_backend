@@ -22,4 +22,4 @@ python manage.py runserver
 /grapql
 ```
 
-Learn more about [Django](https://www.djangoproject.com/)
+Learn more about [Django](https://www.djangoproject.com/), [Django Graphene](https://docs.graphene-python.org/projects/django/en/latest/)
